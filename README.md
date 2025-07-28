@@ -4,7 +4,7 @@ The QA logs track manufacturing issues, resolutions, and other key details for e
 
 <h2>Key Tasks:</h2>  
 Task 1 – Sorting QA Logs  
-   - Generate a report for each production line, sorting entries by **Product ID, Issue Code, and Date/Time**.  
+   - Generate a report for each production line, sorting entries by Product ID, Issue Code, and Date/Time.  
    - The sorting algorithm must be efficient, with a time complexity of **O(N log N)** or better.  
 
 Task 2 – Consolidated Issue Report
@@ -21,12 +21,12 @@ Task 4 – Issue Summary Report
    - The algorithm must run in **O(N)** time.  
 
 <h2>Deliverables:</h2> 
-- **Data Structure Design**: A well-structured way to store QA log data.  
-- **Test Data**: Simulated logs with >10 issues/products per line.  
-- **Testing Plan**: Verification that each task meets performance requirements.  
-- **Pseudocode & C Code**: Clear logic and functional implementation for Tasks 1-4.  
-- **Flowchart (Task 2)**: Visual representation of the consolidation process.  
-- **Project Report**: A detailed document (Word/PDF) covering:  
+- Data Structure Design: A well-structured way to store QA log data.  
+- Test Data: Simulated logs with >10 issues/products per line.  
+- Testing Plan: Verification that each task meets performance requirements.  
+- Pseudocode & C Code: Clear logic and functional implementation for Tasks 1-4.  
+- Flowchart (Task 2): Visual representation of the consolidation process.  
+- Project Report: A detailed document (Word/PDF) covering:  
   - Problem statement, design approach, test plan.  
   - Pseudocode, C code, and explanations.  
   - Readable and well-commented code.  
