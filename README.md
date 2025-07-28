@@ -3,6 +3,7 @@ The project consists of analyzing Quality Assurance (QA) logs from an engineerin
 The QA logs track manufacturing issues, resolutions, and other key details for each product batch.  
 
 <h2>Key Tasks:</h2>  
+
 Task 1 – Sorting QA Logs  
    - Generate a report for each production line, sorting entries by Product ID, Issue Code, and Date/Time.  
    - The sorting algorithm must be efficient, with a time complexity of **O(N log N)** or better.  
