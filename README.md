@@ -1,5 +1,5 @@
 This is my Aglorithms Project from Year 1 Semester 2. 
-The prroject consists of analyzing Quality Assurance (QA) logs from an engineering company that manufactures aeronautical equipment across four production lines in Dublin. 
+The project consists of analyzing Quality Assurance (QA) logs from an engineering company that manufactures aeronautical equipment across four production lines in Dublin. 
 The QA logs track manufacturing issues, resolutions, and other key details for each product batch.  
 
 <h2>Key Tasks:</h2>  
@@ -19,8 +19,8 @@ Task 3 – Search for Earliest Issue
 Task 4 – Issue Summary Report 
    - Generate a summary report counting the **total number of issues per Product ID** across all production lines.  
    - The algorithm must run in **O(N)** time.  
-
-<h2>Deliverables:</h2> 
+<details>
+<summary><h2>Deliverables:</h2></summary>
 
 - Data Structure Design: A well-structured way to store QA log data.  
 
@@ -38,5 +38,7 @@ Task 4 – Issue Summary Report
     
   - Pseudocode, C code, and explanations.
     
-  - Readable and well-commented code.  
+  - Readable and well-commented code.
+
+</details> 
 
