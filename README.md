@@ -22,12 +22,20 @@ Task 4 – Issue Summary Report
 
 <h2>Deliverables:</h2> 
 - Data Structure Design: A well-structured way to store QA log data.  
-- Test Data: Simulated logs with >10 issues/products per line.  
-- Testing Plan: Verification that each task meets performance requirements.  
-- Pseudocode & C Code: Clear logic and functional implementation for Tasks 1-4.  
-- Flowchart (Task 2): Visual representation of the consolidation process.  
-- Project Report: A detailed document (Word/PDF) covering:  
-  - Problem statement, design approach, test plan.  
-  - Pseudocode, C code, and explanations.  
+
+- Test Data: Simulated logs with >10 issues/products per line.
+  
+- Testing Plan: Verification that each task meets performance requirements.
+  
+- Pseudocode & C Code: Clear logic and functional implementation for Tasks 1-4.
+  
+- Flowchart (Task 2): Visual representation of the consolidation process.
+  
+- Project Report: A detailed document (Word/PDF) covering:
+  
+  - Problem statement, design approach, test plan.
+    
+  - Pseudocode, C code, and explanations.
+    
   - Readable and well-commented code.  
 
