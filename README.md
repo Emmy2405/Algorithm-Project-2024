@@ -19,7 +19,7 @@ The prroject consists of analyzing Quality Assurance (QA) logs from an engineeri
    - Generate a summary report counting the **total number of issues per Product ID** across all production lines.  
    - The algorithm must run in **O(N)** time.  
 
-#### **Deliverables:**  
+<h2>Deliverables:</h2> 
 - **Data Structure Design**: A well-structured way to store QA log data.  
 - **Test Data**: Simulated logs with >10 issues/products per line.  
 - **Testing Plan**: Verification that each task meets performance requirements.  
@@ -30,13 +30,3 @@ The prroject consists of analyzing Quality Assurance (QA) logs from an engineeri
   - Pseudocode, C code, and explanations.  
   - Readable and well-commented code.  
 
-#### **Submission & Demo:**  
-- **Deadline**: **5 PM, 7th April 2024** (late submissions penalized at -10% per day).  
-- **Lab Demonstration**:  
-  1. Display raw production line data.  
-  2. Show sorted logs (Task 1).  
-  3. Present the consolidated issue list (Task 2).  
-  4. Demonstrate the search function (Task 3).  
-  5. Display the issue summary report (Task 4).  
-
-Failure to meet performance requirements or incorrect implementation will result in a failing grade. The assignment is divided equally across design, coding, testing, and demonstration.
