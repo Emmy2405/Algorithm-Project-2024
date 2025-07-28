@@ -1,7 +1,7 @@
 This is my Aglorithms Project from Year 1 Semester 2. 
 The prroject consists of analyzing Quality Assurance (QA) logs from an engineering company that manufactures aeronautical equipment across **four production lines** in Dublin. The QA logs track manufacturing issues, resolutions, and other key details for each product batch.  
 
-#### **Key Tasks:**  
+<h2>**Key Tasks:**</h2>  
 1. **Task 1 – Sorting QA Logs**  
    - Generate a report for each production line, sorting entries by **Product ID, Issue Code, and Date/Time**.  
    - The sorting algorithm must be efficient, with a time complexity of **O(N log N)** or better.  
