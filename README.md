@@ -21,6 +21,7 @@ Task 4 – Issue Summary Report
    - The algorithm must run in **O(N)** time.  
 
 <h2>Deliverables:</h2> 
+
 - Data Structure Design: A well-structured way to store QA log data.  
 
 - Test Data: Simulated logs with >10 issues/products per line.
