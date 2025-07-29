@@ -1,25 +1,46 @@
-This is my Aglorithms Project from Year 1 Semester 2. 
-The project consists of analyzing Quality Assurance (QA) logs from an engineering company that manufactures aeronautical equipment across four production lines in Dublin. 
-The QA logs track manufacturing issues, resolutions, and other key details for each product batch.  
+<h1>Algorithms Project - QA Log Analysis</h1>
+<p><strong>Year 1, Semester 2</strong></p>
 
-<h2>Key Tasks:</h2>  
+<h2>Project Overview</h2>
+<p>This project analyzes Quality Assurance (QA) logs from an aeronautical equipment manufacturer with four production lines in Dublin. The QA logs track manufacturing issues, resolutions, and other key details for each product batch.</p>
 
-###Task 1 – Sorting QA Logs
-   - Generate a report for each production line, sorting entries by Product ID, Issue Code, and Date/Time.  
-   - The sorting algorithm must be efficient, with a time complexity of O(N log N) or better.  
+<h2>Key Tasks</h2>
 
-###Task 2 – Consolidated Issue Report
-   - Combine issue data from all production lines into a single list, organized by Product ID and Line ID.  
-   - The solution must process data in O(N) time or better.  
-   - A flowchart must be provided for this task.  
+<h3>Task 1 - Sorting QA Logs</h3>
+<ul>
+  <li>Generate a report for each production line, sorting entries by:
+    <ul>
+      <li>Product ID</li>
+      <li>Issue Code</li>
+      <li>Date/Time</li>
+    </ul>
+  </li>
+  <li><strong>Algorithm requirement:</strong> O(N log N) time complexity or better</li>
+</ul>
 
-###Task 4 – Search for Earliest Issue
-   - Implement a search function to find the earliest occurrence of a given issue code for a specific Product ID across all lines.  
-   - The search must be highly efficient, running in O(log N) time or better.  
+<h3>Task 2 - Consolidated Issue Report</h3>
+<ul>
+  <li>Combine issue data from all production lines into a single list, organized by:
+    <ul>
+      <li>Product ID</li>
+      <li>Line ID</li>
+    </ul>
+  </li>
+  <li><strong>Algorithm requirement:</strong> O(N) time complexity or better</li>
+  <li><strong>Deliverable:</strong> Flowchart of the consolidation process</li>
+</ul>
 
-###Task 4 – Issue Summary Report
-   - Generate a summary report counting the total number of issues per Product ID across all production lines.  
-   - The algorithm must run in O(N) time.  
+<h3>Task 3 - Search for Earliest Issue</h3>
+<ul>
+  <li>Find the earliest occurrence of a given issue code for a specific Product ID across all lines</li>
+  <li><strong>Algorithm requirement:</strong> O(log N) time complexity or better</li>
+</ul>
+
+<h3>Task 4 - Issue Summary Report</h3>
+<ul>
+  <li>Generate a summary report counting total issues per Product ID</li>
+  <li><strong>Algorithm requirement:</strong> O(N) time complexity</li>
+</ul> 
 <details>
 <summary><h2>Deliverables:</h2></summary>
 
